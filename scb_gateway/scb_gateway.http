@@ -1,0 +1,4 @@
+@scb_gateway_HostAddress = http://localhost:5094
+
+GET {{scb_gateway_HostAddress}}/
+Accept: application/json

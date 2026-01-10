@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path="config.json" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="lib_domain/lib_domain.csproj" Id="4f37fa8e-ab16-425d-b7d2-72d817c8d2d9" />
+  <Project Path="lib_repositories/lib_repositories.csproj" Id="5734183f-43aa-4a78-8211-93380c1da98e" />
+  <Project Path="scb_gateway/scb_gateway.csproj" Id="e70a6431-332a-420f-a791-ac5c50ecd859" />
+  <Project Path="scb_services/scb_services.csproj" Id="9a7156e3-6beb-4d4d-b50f-a75a78a5c7cc" />
+  <Project Path="ut_presentation/ut_presentation.csproj" Id="95ab0401-1c99-4968-92ea-eb2b40df8ca7" />
+</Solution>

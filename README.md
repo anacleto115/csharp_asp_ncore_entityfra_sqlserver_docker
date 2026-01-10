@@ -1,1 +1,8 @@
-# csharp_asp_ncore_entityfra_sqlserver_docker
+© 2026 [Andres Felipe Albanes/Owner]
+
+* CSharp
+* ASP Net Core
+* Entity Framework
+* JWT
+* SQL Server
+* Docker

@@ -1,0 +1,5 @@
+{
+  "StringConexion": "server=localhost;database=db_store;Integrated Security=True;TrustServerCertificate=true;",
+  "app.version": "0.0.1",
+  "app.secret": "JH4d646d54fg53df1g32654gj764832132"
+}
