@@ -3,6 +3,7 @@
 * CSharp
 * ASP Net Core
 * Entity Framework
+* Dependency Injection
 * JWT
 * SQL Server
 * Docker
